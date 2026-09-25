@@ -1,0 +1,1718 @@
+THE INDIAN PENAL CODE (IPC) - COMPREHENSIVE DATABASE
+====================================================================
+
+=== CHAPTER I: INTRODUCTION ===
+
+Section 1: Title and Extent of Operation
+The Code extends to the whole of India. It applies to every person within India, regardless of nationality, and to Indian citizens outside India for certain offences.
+
+Section 2: Punishment of Offences Committed Within India
+Every person shall be liable to punishment under this Code for every act or omission contrary to its provisions, of which he shall be guilty within India.
+
+Section 3: Punishment of Offences Committed Beyond India
+Any person liable, by any Indian law, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Code.
+
+Section 4: Extension of Code to Extra-Territorial Offences
+Provisions extend to offences committed by Indian citizens outside India, Indian ships, and aircraft registered in India.
+
+Section 5: Certain Laws Not to be Affected by This Act
+Nothing in this Act shall affect provisions of any special or local law, the Indian Army Act, Navy Act, or Air Force Act.
+
+=== CHAPTER II: GENERAL EXPLANATIONS ===
+
+Section 6: Definitions in the Code to be Understood Subject to Exceptions
+Throughout this Code every definition is subject to exceptions expressed or understood.
+
+Section 7: Sense of Expression Once Explained
+Every expression explained in any part of this Code is used in every part in conformity with the explanation.
+
+Section 8: Gender
+The pronoun "he" and its derivatives include "she" when applicable.
+
+Section 9: Number
+Unless contrary appears, words in singular include plural and vice versa.
+
+Section 10: "Man", "Woman"
+"Man" denotes a male human being of any age; "Woman" denotes a female human being of any age.
+
+Section 11: "Person"
+"Person" includes any company, association, or body of persons, whether incorporated or not.
+
+Section 12: "Public"
+"Public" includes any class of the public or any community.
+
+Section 13: "Queen"
+Now read as "Government" post-independence.
+
+Section 14: "Servant of Government"
+Denotes any officer or servant continued, appointed, or employed by the Central or State Government.
+
+Section 15: "Servant of Government" - Additional Definition
+Includes judges, officers of courts, commissioners appointed by courts, officers of armed forces.
+
+Section 16: "Government"
+Now means the Central Government or State Government as applicable.
+
+Section 17: "Government of India"
+Repealed and replaced by adaptation orders post-independence.
+
+Section 18: "India"
+Now refers to the territory of India as defined in the Constitution.
+
+Section 19: "Judge"
+Denotes a person empowered by law to give a definitive judgment in legal proceedings.
+
+Section 20: "Court of Justice"
+A judge empowered by law to act judicially alone, or a body of judges required to act judicially together.
+
+Section 21: "Public Servant"
+Includes judges, government officers, officers of courts, police, army, navy, air force officers, village officers, etc. (18 categories listed).
+
+Section 22: "Movable Property"
+Property of every description except immovable property (land and buildings attached to earth).
+
+Section 23: "Wrongful Gain"
+Gaining property to which person is not legally entitled; wrongful loss is depriving person of property to which they are entitled.
+
+Section 24: "Dishonestly"
+Doing anything with intention to cause wrongful gain to one person or wrongful loss to another.
+
+Section 25: "Fraudulently"
+Doing anything with intent to defraud but not otherwise.
+
+Section 26: "Reason to Believe"
+Person has reason to believe a fact if he has sufficient cause to believe that fact but not otherwise.
+
+Section 27: Property in Possession of Wife, Clerk, or Servant
+When property is in possession of a person's wife, clerk, or servant on account of that person, it is in that person's possession.
+
+Section 28: "Counterfeit"
+A person counterfeits who causes one thing to resemble another with intention that the imitation be used as genuine.
+
+Section 29: "Document"
+Any matter expressed or described upon any substance by marks capable of being read or understood.
+
+Section 29A: "Electronic Record"
+Data generated, stored, received, or sent in electronic form which is capable of being retrieved or processed.
+
+Section 30: "Valuable Security"
+Document which is or purports to be a document whereby any legal right is created, extended, transferred, restricted, extinguished, or released.
+
+Section 31: "A Will"
+A testamentary document expressing intention of testator with respect to property which he desires to be carried into effect after his death.
+
+Section 32: "Words Referring to Acts Include Illegal Omissions"
+In every part of this Code, words referring to acts done also include illegal omissions.
+
+Section 33: "Act", "Omission"
+"Act" denotes a series of acts as well as single act; "omission" denotes a series of omissions as well as single omission.
+
+Section 34: Acts Done by Several Persons in Furtherance of Common Intention
+When criminal act is done by several persons in furtherance of common intention of all, each is liable as if done by him alone.
+
+Section 35: When Such an Act is Criminal by Reason of Its Being Done with a Criminal Knowledge or Intention
+Whenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each having that knowledge or intention, is liable.
+
+Section 36: Effect Caused Partly by Act and Partly by Omission
+Wherever the causing of a certain effect by an act or omission is an offence, it is the same offence if caused partly by act and partly by omission.
+
+Section 37: Co-operation by Doing One of Several Acts Constituting an Offence
+When an offence is committed by several acts, whoever cooperates by doing any one of those acts is guilty of that offence.
+
+Section 38: Persons Concerned in Criminal Act May be Guilty of Different Offences
+Where several persons are engaged in commission of a criminal act, they may be guilty of different offences by means of that act.
+
+Section 39: "Voluntarily"
+A person is said to cause an effect voluntarily when he causes it by means whereby he intended to cause it.
+
+Section 40: "Offence"
+A thing punishable under this Code or under any special or local law.
+
+Section 41: "Special Law"
+A law applicable to a particular subject.
+
+Section 42: "Local Law"
+A law applicable only to a particular part of India.
+
+Section 43: "Illegal", "Legally Bound to Do"
+"Illegal" is applicable to everything which is an offence or prohibited by law; "legally bound to do" means an act contrary to law.
+
+Section 44: "Injury"
+Any harm whatever illegally caused to person, body, mind, reputation, or property.
+
+Section 45: "Life"
+Denotes life of a human being, unless contrary appears from context.
+
+Section 46: "Death"
+Denotes death of a human being, unless contrary appears from context.
+
+Section 47: "Animal"
+Denotes any living creature other than a human being.
+
+Section 48: "Vessel"
+Denotes anything made for conveyance of human beings or property by water.
+
+Section 49: "Year", "Month"
+"Year" denotes a year reckoned according to British calendar; "Month" denotes a month reckoned according to British calendar.
+
+Section 50: "Section"
+Denotes a section of the Code.
+
+Section 51: "Oath"
+Includes a solemn affirmation substituted by law for an oath.
+
+Section 52: "Good Faith"
+Nothing is said to be done or believed in "good faith" unless done or believed without examination and inquiry which the circumstances require.
+
+Section 52A: "Harbour"
+Except in Section 157, includes supply of food, drink, clothing, shelter, or means of conveyance to offender.
+
+=== CHAPTER III: PUNISHMENTS ===
+
+Section 53: Punishments
+The punishments under this Code are: Death, Imprisonment for life, Imprisonment (rigorous or simple), Forfeiture of property, Fine.
+
+Section 54: Commutation of Sentence of Death
+Appropriate Government may commute death sentence to: Imprisonment for life, Imprisonment (rigorous or simple) for up to 14 years, Fine.
+
+Section 55: Commutation of Sentence of Imprisonment for Life
+May be commuted to imprisonment (rigorous or simple) not exceeding 14 years.
+
+Section 55A: Definition of "Appropriate Government"
+For offences under armed forces acts: Central Government; otherwise: Government to which the offender is subject or where offence committed.
+
+Section 56: Sentence of Europeans and Americans to Penal Servitude
+Repealed.
+
+Section 57: Fractions of Terms of Punishment
+In calculating fractions of punishment, imprisonment for life equals 20 years.
+
+Section 58: Offenders Sentenced to Transportation - How Dealt With Until Transported
+Repealed.
+
+Section 59: Transportation Instead of Imprisonment
+Repealed.
+
+Section 60: Sentence May be (in Certain Cases of Imprisonment) Wholly or Partly Rigorous or Simple
+Court may award wholly rigorous, wholly simple, or partly rigorous and partly simple imprisonment.
+
+Section 61: Sentence of Forfeiture of Property
+Court may sentence offender to forfeiture of property in cases specified.
+
+Section 62: Forfeiture of Property - What Included
+In cases where forfeiture is awarded, property liable includes property possessed at time of apprehension and subsequently.
+
+Section 63: Amount of Fine
+Amount of fine is unlimited unless otherwise specified in the section.
+
+Section 64: Sentence of Imprisonment for Non-Payment of Fine
+Where fine only is ordered, imprisonment for non-payment not to exceed: 2 years if offence punishable with imprisonment for over 1 year; 6 months if punishable with imprisonment for not more than 1 year; 2 months if offence not punishable with imprisonment.
+
+Section 65: Limit to Imprisonment for Non-Payment of Fine (Multiple Sentences)
+Total imprisonment for non-payment of fines in multiple sentences not to exceed: 1/4 of maximum imprisonment term or 3 years (whichever less).
+
+Section 66: Description of Imprisonment for Non-Payment of Fine
+Imprisonment for non-payment of fine is simple.
+
+Section 67: Imprisonment to Terminate on Payment of Fine
+Imprisonment for non-payment terminates when fine is paid.
+
+Section 68: Imprisonment in Default of Payment of Fine
+When offence punishable with both imprisonment and fine: if fine not paid, court may order imprisonment in default.
+
+Section 69: Termination of Imprisonment on Payment of Proportional Part of Fine
+If total fine divisible, payment of proportional part releases prisoner proportionally.
+
+Section 70: Fine Leviable Within Six Years or During Imprisonment - Death Not to Discharge Property from Liability
+Fine may be levied on property within 6 years or during imprisonment; death does not discharge property from liability.
+
+Section 71: Limit of Punishment of Offence Made Up of Several Offences
+Where single act/series constitutes multiple offences, offender not liable for punishment exceeding severest punishment for any one offence.
+
+Section 72: Punishment of Person Guilty of One of Several Offences (Judgment Uncertain Which)
+In case of doubt, offender may be punished for the offence with lowest punishment.
+
+Section 73: Solitary Confinement
+Courts may direct rigorous imprisonment offenders be kept in solitary confinement for portions not exceeding: 1 month at a time (max 3 months in year).
+
+Section 74: Limit of Solitary Confinement
+Solitary confinement not to exceed 3 months if sentence is for 6 months or more; proportionally less for shorter sentences.
+
+Section 75: Enhanced Punishment for Certain Offences After Previous Conviction
+If person convicted of offences under certain sections and previously convicted 3+ times for similar offences, may be liable to imprisonment for life or 10 years with fine.
+
+=== CHAPTER IV: GENERAL EXCEPTIONS ===
+
+Section 76: Act Done by Person Bound by Law or Mistake of Fact Believing Himself Bound
+Nothing is an offence done by person bound by law to do it, or by mistake of fact believing himself bound.
+
+Section 77: Act of Judge When Acting Judicially
+Nothing is an offence done by Judge when acting judicially in exercise of powers believed in good faith to be given by law.
+
+Section 78: Act Done Pursuant to Judgment or Order of Court
+Nothing is an offence done in pursuance of judgment or order of Court of Justice, if the person believes in good faith he is bound by law to do it.
+
+Section 79: Act Done by Person Justified by Law
+Nothing is an offence if done by any person justified by law or by mistake of fact believing himself justified by law.
+
+Section 80: Accident in Doing a Lawful Act
+Nothing is an offence done by accident or misfortune and without criminal intention or knowledge while doing lawful act in lawful manner with proper care and caution.
+
+Section 81: Act Likely to Cause Harm but Done Without Criminal Intent and to Prevent Other Harm
+Nothing is an offence merely by reason of harm caused if done without criminal intention in good faith to prevent other harm.
+
+Section 82: Act of a Child Under Seven Years of Age
+Nothing is an offence done by child under 7 years of age.
+
+Section 83: Act of a Child Above Seven and Under Twelve of Immature Understanding
+Nothing is an offence done by child above 7 and under 12 who has not attained sufficient maturity of understanding to judge nature and consequences.
+
+Section 84: Act of a Person of Unsound Mind
+Nothing is an offence done by person who is incapable of knowing nature of act or that it is wrong or contrary to law due to unsoundness of mind.
+
+Section 85: Act of Person Incapable of Judgment by Intoxication Caused Against His Will
+Nothing is an offence done by person intoxicated against his will without his knowledge.
+
+Section 86: Offence Requiring Particular Intent or Knowledge Committed by One Who is Intoxicated
+If person does act while intoxicated which would be offence if done with particular knowledge or intent, same knowledge/intent presumed unless intoxication was caused without his knowledge/will.
+
+Section 87: Act Not Intended and Not Known to be Likely to Cause Death or Grievous Hurt, Done by Consent
+Nothing is an offence if not intended to cause death/grievous hurt and not known likely to cause same, done by consent (express or implied).
+
+Section 88: Act Not Intended to Cause Death, Done by Consent in Good Faith for Person's Benefit
+Nothing is an offence if not intended to cause death, done by consent for person's benefit (e.g., medical procedures).
+
+Section 89: Act Done in Good Faith for Benefit of Child or Insane Person, by Consent of Guardian
+Act done in good faith for benefit of child under 12 or insane person by consent of guardian is not an offence.
+
+Section 90: Consent Known to be Given Under Fear or Misconception
+Consent not valid if given under fear of injury or misconception of fact, and offender knows or has reason to believe consent given under such circumstances.
+
+Section 91: Exclusion of Acts Which are Offences Independently of Harm Caused
+Exceptions in Sections 87-89 do not extend to acts which are offences independently (e.g., causing miscarriage without woman's consent).
+
+Section 92: Act Done in Good Faith for Benefit of Person Without Consent
+Act done in good faith for benefit of person without consent is not an offence if circumstances prevent consent or if person incapable of giving consent (e.g., emergency medical treatment).
+
+Section 93: Communication Made in Good Faith
+No communication made in good faith is an offence by reason of harm to person to whom it is made.
+
+Section 94: Act to Which Person is Compelled by Threats
+Except murder and offences against State punishable with death, nothing is an offence done by person compelled by threats to do it.
+
+Section 95: Act Causing Slight Harm
+Nothing is an offence by reason of slight harm where act done in good faith without criminal intent.
+
+Section 96: Things Done in Private Defence
+Nothing is an offence done in exercise of right of private defence.
+
+Section 97: Right of Private Defence of Body and Property
+Every person has right to defend own body and property of another, subject to restrictions in Section 99.
+
+Section 98: Right of Private Defence Against Act of Person of Unsound Mind, etc.
+Right exists even if act defended against is not an offence due to unsoundness of mind, intoxication, etc.
+
+Section 99: Acts Against Which There is No Right of Private Defence
+No right of private defence: against act not reasonably causing apprehension of death/grievous hurt; against public servant acting in good faith; more harm than necessary; when there is time to seek protection of public authorities.
+
+Section 100: When Right of Private Defence of Body Extends to Causing Death
+Right extends to causing death when reasonable apprehension of: death, grievous hurt, rape, unnatural offence, kidnapping/abduction, wrongful confinement with inability to seek public protection, acid attack.
+
+Section 101: When Such Right Extends to Causing Any Harm Other Than Death
+Right extends to causing harm (not death) when reasonable apprehension of assault not reasonably causing death/grievous hurt.
+
+Section 102: Commencement and Continuance of Right of Private Defence of Body
+Right commences when reasonable apprehension arises and continues as long as such apprehension continues.
+
+Section 103: When Right of Private Defence of Property Extends to Causing Death
+Right extends to causing death when: robbery, house-breaking by night, mischief by fire, theft/mischief/trespass where inability to seek public protection and reasonable apprehension of death/grievous hurt.
+
+Section 104: When Such Right Extends to Causing Any Harm Other Than Death
+Right extends to causing harm (not death) for: theft, mischief, criminal trespass.
+
+Section 105: Commencement and Continuance of Right of Private Defence of Property
+Right commences when reasonable apprehension of danger to property and continues while such danger continues.
+
+Section 106: Right of Private Defence Against Deadly Assault When There is Risk of Harm to Innocent Person
+If in exercise of right person kills innocent person, it is not an offence if there was no other way to defend and precautions taken.
+
+=== CHAPTER V: ABETMENT ===
+
+Section 107: Abetment of a Thing
+Person abets if: instigates, engages in conspiracy, or intentionally aids commission of that thing.
+
+Section 108: Abettor
+Person who abets offence is called abettor.
+
+Section 108A: Abetment in India of Offences Outside India
+Person commits offence of abetment in India even if act abetted is done outside India.
+
+Section 109: Punishment of Abetment if Act Abetted is Committed
+Punished with punishment for offence abetted.
+
+Section 110: Punishment of Abetment if Person Abetted Does Act with Different Intention
+Abettor liable for act done with different intention if it was probable consequence.
+
+Section 111: Liability of Abettor When One Act Abetted and Different Act Done
+Abettor liable when different act is done if it was probable consequence of abetment.
+
+Section 112: Abettor When Liable to Cumulative Punishment for Act Abetted and for Act Done
+If act abetted and different act done are separate offences, abettor liable for both.
+
+Section 113: Liability of Abettor for Effect Caused by Act Abetted Different from That Intended
+Abettor liable for effects caused different from intended if act was probable consequence.
+
+Section 114: Abettor Present When Offence is Committed
+Whenever person abets offence and is present when committed, deemed to have committed offence.
+
+Section 115: Abetment of Offence Punishable with Death or Imprisonment for Life
+If offence not committed: imprisonment up to 7 years and fine.
+
+Section 116: Abetment of Offence Punishable with Imprisonment
+If offence not committed: imprisonment up to 1/4 of longest term or fine or both.
+
+Section 117: Abetting Commission of Offence by Public or by More Than Ten Persons
+Imprisonment up to 3 years or fine or both.
+
+Section 118: Concealing Design to Commit Offence Punishable with Death or Imprisonment for Life
+Imprisonment up to 7 years and fine.
+
+Section 119: Public Servant Concealing Design to Commit Offence
+Public servant: imprisonment up to 10 years and fine; others: imprisonment up to 3 years or fine or both.
+
+Section 120: Concealing Design to Commit Offence Punishable with Imprisonment
+Imprisonment up to 1/4 of longest term or fine or both.
+
+Section 120A: Definition of Criminal Conspiracy
+Agreement between two or more persons to do illegal act or legal act by illegal means.
+
+Section 120B: Punishment of Criminal Conspiracy
+If conspiracy to commit offence punishable with death/life/rigorous imprisonment for 2+ years: same as abetment; otherwise: imprisonment up to 6 months or fine or both.
+
+=== CHAPTER VI: OFFENCES AGAINST THE STATE ===
+
+Section 121: Waging or Attempting to Wage War Against Government of India
+Punishment: Death or imprisonment for life and fine.
+
+Section 121A: Conspiracy to Commit Offences Punishable by Section 121
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 122: Collecting Arms, etc., with Intention of Waging War Against Government of India
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 123: Concealing with Intent to Facilitate Design to Wage War
+Imprisonment up to 10 years and fine.
+
+Section 124: Assaulting President, Governor, etc., with Intent to Compel or Restrain Exercise of Lawful Power
+Imprisonment up to 7 years and fine.
+
+Section 124A: Sedition
+Whoever attempts to bring hatred/contempt/excite disaffection towards Government: imprisonment for life with/without fine or imprisonment up to 3 years with/without fine.
+
+Section 125: Waging War Against Any Asiatic Power in Alliance with Government of India
+Imprisonment for life and fine, or imprisonment up to 7 years and fine, or fine.
+
+Section 126: Committing Depredation on Territories of Power at Peace with Government of India
+Imprisonment up to 7 years and fine, and forfeiture of property seized.
+
+Section 127: Receiving Property Taken by War or Depredation
+Imprisonment up to 7 years and fine.
+
+Section 128: Public Servant Voluntarily Allowing Prisoner to Escape
+Imprisonment up to 3 years or fine or both; if prisoner under sentence of death: imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 129: Public Servant Negligently Suffering Prisoner to Escape
+Simple imprisonment up to 2 years or fine or both.
+
+Section 130: Aiding Escape of, Rescuing or Harboring Prisoner
+Imprisonment up to 7 years and fine (varies based on sentence prisoner was under).
+
+=== CHAPTER VII: OFFENCES RELATING TO ARMY, NAVY, AIR FORCE ===
+
+Section 131: Abetting Mutiny or Attempting to Seduce Soldier, Sailor, or Airman
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 132: Abetment of Mutiny, if Mutiny is Committed
+Punishment: Death or imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 133: Abetment of Assault by Soldier, Sailor, or Airman on Superior Officer
+Imprisonment up to 3 years and fine.
+
+Section 134: Abetment of Desertion of Soldier, Sailor, or Airman
+Imprisonment up to 2 years or fine or both.
+
+Section 135: Harboring Deserter
+Imprisonment up to 2 years or fine or both.
+
+Section 136: Harboring Deserter Knowing He Has Been Guilty of Offence Punishable with Death
+Imprisonment up to 7 years and fine.
+
+Section 137: Deserter Concealed on Board Merchant Vessel Through Negligence of Master
+Fine up to Rs. 500.
+
+Section 138: Abetment of Act of Insubordination by Soldier, Sailor, or Airman
+Imprisonment up to 6 months or fine or both.
+
+Section 139: Persons Subject to Certain Acts
+Persons subject to Army Act, Navy Act, Air Force Act.
+
+Section 140: Wearing Garb or Carrying Token Used by Soldier, Sailor, or Airman
+Imprisonment up to 3 months or fine or both.
+
+=== CHAPTER VIII: OFFENCES AGAINST PUBLIC TRANQUILITY ===
+
+Section 141: Unlawful Assembly
+Assembly of 5+ persons with common object to commit offence, resist execution of law, commit mischief/criminal trespass, or by show of force compel person to do illegal act.
+
+Section 142: Being Member of Unlawful Assembly
+Imprisonment up to 6 months or fine or both.
+
+Section 143: Punishment for Unlawful Assembly
+Imprisonment up to 6 months or fine or both.
+
+Section 144: Joining Unlawful Assembly Armed with Deadly Weapon
+Imprisonment up to 2 years or fine or both.
+
+Section 145: Joining or Continuing in Unlawful Assembly Knowing it Has Been Commanded to Disperse
+Imprisonment up to 2 years or fine or both.
+
+Section 146: Rioting
+Member of unlawful assembly using force or violence.
+
+Section 147: Punishment for Rioting
+Imprisonment up to 2 years or fine or both.
+
+Section 148: Rioting, Armed with Deadly Weapon
+Imprisonment up to 3 years or fine or both.
+
+Section 149: Every Member of Unlawful Assembly Guilty of Offence Committed in Prosecution of Common Object
+If offence committed by any member in prosecution of common object, every member guilty of that offence.
+
+Section 150: Hiring, or Conniving at Hiring of Persons to Join Unlawful Assembly
+Punished as member of unlawful assembly and for any offence committed by hired person.
+
+Section 151: Knowingly Joining or Continuing in Assembly of Five or More Persons After it Has Been Commanded to Disperse
+Imprisonment up to 6 months or fine or both.
+
+Section 152: Assaulting or Obstructing Public Servant When Suppressing Riot
+Imprisonment up to 3 years or fine or both.
+
+Section 153: Wantonly Giving Provocation with Intent to Cause Riot
+Imprisonment up to 1 year or fine or both; if riot committed: imprisonment up to 3 years or fine or both.
+
+Section 153A: Promoting Enmity Between Different Groups on Grounds of Religion, Race, Place of Birth, Residence, Language
+Imprisonment up to 3 years or fine or both.
+
+Section 153AA: Punishment for Knowingly Carrying Arms in Any Procession or Organizing or Holding or Taking Part in Mass Drill
+Imprisonment up to 6 months and fine.
+
+Section 153B: Imputations, Assertions Prejudicial to National Integration
+Imprisonment up to 3 years or fine or both.
+
+Section 154: Owner or Occupier of Land Permitting Unlawful Assembly
+Fine up to Rs. 1,000.
+
+Section 155: Person for Whose Benefit Riot is Committed
+Imprisonment up to 1 year or fine or both.
+
+Section 156: Liability of Agent of Owner or Occupier for Whose Benefit Riot is Committed
+Imprisonment up to 1 year or fine or both.
+
+Section 157: Harboring Persons Hired for Unlawful Assembly
+Imprisonment up to 6 months or fine or both.
+
+Section 158: Being Hired to Take Part in Unlawful Assembly or Riot
+Imprisonment up to 6 months or fine or both; if hired for armed unlawful assembly: imprisonment up to 2 years or fine or both.
+
+Section 159: Affray
+When two or more persons fight in public place disturbing public peace.
+
+Section 160: Punishment for Committing Affray
+Imprisonment up to 1 month or fine up to Rs. 100 or both.
+
+=== CHAPTER IX: OFFENCES BY OR RELATING TO PUBLIC SERVANTS ===
+
+Section 161: Public Servant Taking Gratification Other Than Legal Remuneration
+Imprisonment up to 3 years or fine or both.
+
+Section 162: Taking Gratification to Influence Public Servant by Corrupt or Illegal Means
+Imprisonment up to 3 years or fine or both.
+
+Section 163: Taking Gratification for Exercise of Personal Influence with Public Servant
+Imprisonment up to 1 year or fine or both.
+
+Section 164: Punishment for Abetment of Offences Under Sections 161-163
+Same as substantive offence.
+
+Section 165: Public Servant Obtaining Valuable Thing Without Consideration from Person Concerned
+Imprisonment up to 2 years or fine or both.
+
+Section 165A: Punishment for Abetment of Offences Under Section 165
+Imprisonment up to 2 years or fine or both.
+
+Section 166: Public Servant Disobeying Law with Intent to Cause Injury
+Imprisonment up to 1 year or fine or both.
+
+Section 166A: Public Servant Disobeying Direction of Law with Intent to Save Person from Punishment
+Imprisonment up to 2 years or fine or both.
+
+Section 166B: Punishment for Non-Treatment of Victim
+Public servant failing to provide medical treatment to victim: imprisonment up to 1 year or fine or both.
+
+Section 167: Public Servant Framing Incorrect Document with Intent to Cause Injury
+Imprisonment up to 3 years or fine or both.
+
+Section 168: Public Servant Unlawfully Engaging in Trade
+Imprisonment up to 1 year or fine or both.
+
+Section 169: Public Servant Unlawfully Buying or Bidding for Property
+Imprisonment up to 2 years or fine or both, and property confiscated.
+
+Section 170: Personating Public Servant
+Imprisonment up to 2 years or fine or both.
+
+Section 171: Wearing Garb or Carrying Token Used by Public Servant with Fraudulent Intent
+Imprisonment up to 3 months or fine or both.
+
+=== CHAPTER IXA: OFFENCES RELATING TO ELECTIONS ===
+
+Section 171A: "Candidate", "Electoral Right" Defined
+Definitions for election-related offences.
+
+Section 171B: Bribery
+Whoever gives/offers gratification to induce person to vote or not vote, or reward for having voted/not voted.
+
+Section 171C: Undue Influence at Elections
+Whoever voluntarily interferes with free exercise of electoral right.
+
+Section 171D: Personation at Elections
+Whoever at election applies for voting paper or votes as some other person.
+
+Section 171E: Punishment for Bribery
+Imprisonment up to 1 year or fine or both.
+
+Section 171F: Punishment for Undue Influence or Personation
+Imprisonment up to 1 year or fine or both.
+
+Section 171G: False Statement in Connection with Election
+Imprisonment up to 3 months or fine or both.
+
+Section 171H: Illegal Payments in Connection with Elections
+Fine up to Rs. 500.
+
+Section 171-I: Failure to Keep Election Accounts
+Imprisonment up to 3 months or fine or both.
+
+=== CHAPTER X: CONTEMPT OF LAWFUL AUTHORITY OF PUBLIC SERVANTS ===
+
+Section 172: Absconding to Avoid Service of Summons
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 173: Preventing Service of Summons or Other Proceeding
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 174: Non-Attendance in Obedience to Order from Public Servant
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 174A: Non-Appearance in Response to Proclamation Under Section 82 CrPC
+Imprisonment up to 3 years or fine or both; if offence capital: imprisonment up to 7 years and fine.
+
+Section 175: Omission to Produce Document to Public Servant
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 176: Omission to Give Notice or Information to Public Servant
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 177: Furnishing False Information
+Simple imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 178: Refusing Oath or Affirmation
+Simple imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 179: Refusing to Answer Public Servant Authorized to Question
+Simple imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 180: Refusing to Sign Statement
+Simple imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 181: False Statement on Oath to Public Servant
+Imprisonment up to 3 years and fine.
+
+Section 182: False Information with Intent to Cause Public Servant to Use Lawful Power
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 183: Resistance to Taking of Property by Lawful Authority
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 184: Obstructing Sale of Property Offered for Sale by Authority
+Imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 185: Illegal Purchase or Bid for Property Offered for Sale by Authority
+Imprisonment up to 1 month or fine up to Rs. 200 or both.
+
+Section 186: Obstructing Public Servant in Discharge of Public Functions
+Imprisonment up to 3 months or fine up to Rs. 500 or both.
+
+Section 187: Omission to Assist Public Servant When Bound by Law to Give Assistance
+Simple imprisonment up to 1 month or fine up to Rs. 200 or both.
+
+Section 188: Disobedience to Order Duly Promulgated by Public Servant
+Simple imprisonment up to 1 month or fine up to Rs. 200 or both.
+
+Section 189: Threat of Injury to Public Servant
+Imprisonment up to 2 years or fine or both.
+
+Section 190: Threat of Injury to Induce Person to Refrain from Application for Protection
+Imprisonment up to 1 year or fine or both.
+
+=== CHAPTER XI: FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE ===
+
+Section 191: Giving False Evidence
+Whoever makes false statement on oath or affirmation commits giving false evidence.
+
+Section 192: Fabricating False Evidence
+Whoever causes circumstance to exist to use as false evidence commits fabricating false evidence.
+
+Section 193: Punishment for False Evidence
+Imprisonment up to 7 years and fine.
+
+Section 194: Giving or Fabricating False Evidence with Intent to Procure Conviction of Capital Offence
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 195: Giving or Fabricating False Evidence with Intent to Procure Conviction of Non-Capital Offence
+Imprisonment same as for offence and fine.
+
+Section 195A: Threatening Person to Give False Evidence
+Imprisonment up to 7 years or fine or both.
+
+Section 196: Using Evidence Known to be False
+Punished as if giving or fabricating false evidence.
+
+Section 197: Issuing or Signing False Certificate
+Punished as if giving false evidence.
+
+Section 198: Using Certificate Known to be False
+Punished as if giving false evidence.
+
+Section 199: False Statement Made in Declaration
+Imprisonment up to 3 years and fine.
+
+Section 200: Using as True Declaration Knowing it to be False
+Punished as person making false declaration.
+
+Section 201: Causing Disappearance of Evidence of Offence
+Imprisonment same as for offence (if offence capital: imprisonment up to 7 years; if punishable with imprisonment: imprisonment up to 1/4 of longest term).
+
+Section 202: Intentional Omission to Give Information of Offence by Person Bound to Inform
+Imprisonment up to 6 months or fine or both (if offence capital: imprisonment up to 2 years or fine or both).
+
+Section 203: Giving False Information Respecting Offence Committed
+Imprisonment up to 2 years or fine or both.
+
+Section 204: Destruction of Document to Prevent Production as Evidence
+Imprisonment up to 2 years or fine or both.
+
+Section 205: False Personation for Purpose of Act or Proceeding in Suit or Prosecution
+Imprisonment up to 2 years or fine or both.
+
+Section 206: Fraudulent Removal or Concealment of Property to Prevent Seizure
+Imprisonment up to 2 years or fine or both.
+
+Section 207: Fraudulent Claim to Property to Prevent Seizure
+Imprisonment up to 2 years or fine or both.
+
+Section 208: Fraudulently Suffering Decree for Sum Not Due
+Imprisonment up to 2 years or fine or both.
+
+Section 209: Dishonestly Making False Claim in Court
+Imprisonment up to 2 years and fine.
+
+Section 210: Fraudulently Obtaining Decree for Sum Not Due
+Imprisonment up to 2 years or fine or both.
+
+Section 211: False Charge of Offence Made with Intent to Injure
+Imprisonment up to 2 years or fine or both.
+
+Section 212: Harbouring Offender
+Imprisonment up to 1 year or fine or both (if offence capital: imprisonment up to 5 years; if punishable with life: imprisonment up to 3 years).
+
+Section 213: Taking Gift to Screen Offender from Punishment
+Imprisonment same as harbouring; if capital offence: imprisonment up to 7 years and fine.
+
+Section 214: Offering Gift or Restoration of Property to Screen Offender
+Imprisonment same as harbouring.
+
+Section 215: Taking Gift to Help Recover Stolen Property
+Imprisonment up to 2 years or fine or both.
+
+Section 216: Harbouring Offender Who Has Escaped from Custody
+Imprisonment up to 3 years and fine (if offence capital: imprisonment up to 7 years and fine).
+
+Section 216A: Penalty for Harbouring Robbers or Dacoits
+Rigorous imprisonment up to 7 years and fine.
+
+Section 216B: Definition of "Harbour"
+Supplying with food, drink, clothing, shelter, or means of conveyance, or assisting in avoiding apprehension.
+
+Section 217: Public Servant Disobeying Direction of Law with Intent to Save Person
+Imprisonment up to 2 years or fine or both.
+
+Section 218: Public Servant Framing Incorrect Record with Intent to Save Person
+Imprisonment up to 3 years or fine or both.
+
+Section 219: Public Servant in Judicial Proceeding Corruptly Making Report Contrary to Law
+Imprisonment up to 7 years or fine or both.
+
+Section 220: Commitment for Trial or Confinement by Person Having Authority Knowing He is Acting Contrary to Law
+Imprisonment up to 7 years or fine or both.
+
+Section 221: Intentional Omission to Apprehend on Part of Public Servant
+Imprisonment up to 2 years or fine or both (if offence capital: imprisonment up to 7 years with/without fine).
+
+Section 222: Intentional Omission to Apprehend on Part of Public Servant Bound to Apprehend Offender Under Sentence
+Imprisonment up to 3 years or fine or both.
+
+Section 223: Escape from Confinement or Custody Negligently Suffered by Public Servant
+Simple imprisonment up to 2 years or fine or both.
+
+Section 224: Resistance or Obstruction by Person to Lawful Apprehension
+Imprisonment up to 2 years or fine or both.
+
+Section 225: Resistance or Obstruction to Lawful Apprehension of Another Person
+Imprisonment up to 2 years or fine or both (if offence capital: imprisonment up to 7 years and fine).
+
+Section 225A: Omission to Apprehend or Suffer Escape of Person Under Sentence
+Imprisonment for life or imprisonment up to 14 years and fine (if under sentence of death).
+
+Section 225B: Resistance or Obstruction to Lawful Apprehension of Person Under Sentence
+Imprisonment for life or imprisonment up to 10 years and fine (if under death sentence).
+
+Section 226: Unlawful Return from Transportation
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 227: Violation of Condition of Remission of Punishment
+Punishment for original offence or if part already undergone, remainder.
+
+Section 228: Intentional Insult or Interruption to Public Servant Sitting in Judicial Proceeding
+Simple imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 228A: Disclosure of Identity of Victim of Certain Offences
+Imprisonment up to 2 years and fine.
+
+Section 229: Personation of Juror or Assessor
+Imprisonment up to 2 years or fine or both.
+
+=== CHAPTER XII: OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS ===
+
+Section 230: "Coin" Defined
+Metal used for payment of money stamped and issued by authority of government.
+
+Section 231: "Genuine Coin" Defined
+Coin not diminished in weight or altered otherwise than lawfully.
+
+Section 232: Counterfeiting Coin
+Making coin not genuine in resemblance to genuine coin with fraudulent intent.
+
+Section 233: Making or Selling Instrument for Counterfeiting Coin
+Imprisonment up to 3 years and fine.
+
+Section 234: Making or Selling Instrument for Counterfeiting Indian Coin
+Imprisonment up to 7 years and fine.
+
+Section 235: Possession of Instrument or Material for Counterfeiting Coin
+Imprisonment up to 3 years and fine.
+
+Section 236: Abetting in India Counterfeiting Out of India
+Punished as if counterfeiting in India.
+
+Section 237: Import or Export of Counterfeit Coin
+Imprisonment up to 3 years and fine.
+
+Section 238: Import or Export of Counterfeits of Indian Coin
+Imprisonment up to 10 years and fine.
+
+Section 239: Delivery of Coin Possessed with Knowledge that it is Counterfeit
+Imprisonment up to 5 years and fine (if Indian coin: imprisonment up to 10 years and fine).
+
+Section 240: Delivery of Indian Coin Possessed with Knowledge that it is Counterfeit
+Imprisonment up to 10 years and fine.
+
+Section 241: Delivery of Coin as Genuine Which Person Knows to be Altered
+Imprisonment up to 3 years and fine.
+
+Section 242: Possession of Counterfeit Coin by Person Who Knew it to be Counterfeit When He Became Possessed
+Imprisonment up to 3 years and fine.
+
+Section 243: Possession of Indian Coin by Person Who Knew it to be Counterfeit When He Became Possessed
+Imprisonment up to 7 years and fine.
+
+Section 244: Person Employed in Mint Causing Coin to be of Different Weight or Composition
+Imprisonment up to 7 years and fine.
+
+Section 245: Unlawfully Taking Coining Instrument from Mint
+Imprisonment up to 7 years and fine.
+
+Section 246: Fraudulently Diminishing Weight or Altering Composition of Coin
+Imprisonment up to 3 years and fine.
+
+Section 247: Fraudulently Diminishing Weight or Altering Composition of Indian Coin
+Imprisonment up to 7 years and fine.
+
+Section 248: Altering Appearance of Coin with Intent that it Shall Pass as Coin of Different Description
+Imprisonment up to 3 years and fine.
+
+Section 249: Altering Appearance of Indian Coin with Intent that it Shall Pass as Coin of Different Description
+Imprisonment up to 7 years and fine.
+
+Section 250: Delivery to Another of Coin Possessed with Knowledge that it is Altered
+Imprisonment up to 5 years and fine.
+
+Section 251: Delivery to Another of Indian Coin Possessed with Knowledge that it is Altered
+Imprisonment up to 10 years and fine.
+
+Section 252: Possession of Altered Coin by Person Who Knew it to be Altered When He Became Possessed
+Imprisonment up to 3 years and fine.
+
+Section 253: Possession of Indian Coin by Person Who Knew it to be Altered When He Became Possessed
+Imprisonment up to 5 years and fine.
+
+Section 254: Delivery to Another of Coin as Genuine Which Person Knows to be Altered
+Imprisonment up to 3 years and fine.
+
+Section 255: Counterfeiting Government Stamp
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 256: Having Possession of Instrument or Material for Counterfeiting Government Stamp
+Imprisonment up to 7 years and fine.
+
+Section 257: Making or Selling Instrument for Counterfeiting Government Stamp
+Imprisonment up to 7 years and fine.
+
+Section 258: Sale of Counterfeit Government Stamp
+Imprisonment up to 7 years and fine.
+
+Section 259: Having Possession of Counterfeit Government Stamp
+Imprisonment up to 7 years and fine.
+
+Section 260: Using as Genuine Government Stamp Known to be Counterfeit
+Imprisonment up to 7 years or fine or both.
+
+Section 261: Effacing Writing from Substance Bearing Government Stamp
+Imprisonment up to 3 years or fine or both.
+
+Section 262: Using Government Stamp Known to Have Been Before Used
+Imprisonment up to 2 years or fine or both.
+
+Section 263: Erasure of Mark Denoting that Stamp Has Been Used
+Imprisonment up to 3 years or fine or both.
+
+Section 263A: Prohibition of Fictitious Stamps
+Fine up to Rs. 200.
+
+=== CHAPTER XIII: OFFENCES RELATING TO WEIGHTS AND MEASURES ===
+
+Section 264: Fraudulent Use of False Instrument for Weighing
+Imprisonment up to 1 year or fine or both.
+
+Section 265: Fraudulent Use of False Weight or Measure
+Imprisonment up to 1 year or fine or both.
+
+Section 266: Being in Possession of False Weight or Measure for Fraudulent Use
+Imprisonment up to 1 year or fine or both.
+
+Section 267: Making or Selling False Weight or Measure for Fraudulent Use
+Imprisonment up to 1 year or fine or both.
+
+=== CHAPTER XIV: OFFENCES AFFECTING PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY, AND MORALS ===
+
+Section 268: Public Nuisance
+Act which causes common injury, danger, or annoyance to public or people in general.
+
+Section 269: Negligent Act Likely to Spread Infection of Disease Dangerous to Life
+Imprisonment up to 6 months or fine or both.
+
+Section 270: Malignant Act Likely to Spread Infection of Disease Dangerous to Life
+Imprisonment up to 2 years or fine or both.
+
+Section 271: Disobedience to Quarantine Rule
+Imprisonment up to 6 months or fine or both.
+
+Section 272: Adulteration of Food or Drink Intended for Sale
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 273: Sale of Noxious Food or Drink
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 274: Adulteration of Drugs
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 275: Sale of Adulterated Drugs
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 276: Sale of Drug as Different Drug or Preparation
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 277: Fouling Water of Public Spring or Reservoir
+Imprisonment up to 3 months or fine up to Rs. 500 or both.
+
+Section 278: Making Atmosphere Noxious to Health
+Fine up to Rs. 500.
+
+Section 279: Rash Driving or Riding on Public Way
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 280: Rash Navigation of Vessel
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 281: Exhibition of False Light, Mark, or Buoy
+Imprisonment up to 7 years or fine or both.
+
+Section 282: Conveying Person by Water for Hire in Unsafe or Overloaded Vessel
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 283: Danger or Obstruction in Public Way or Line of Navigation
+Fine up to Rs. 200.
+
+Section 284: Negligent Conduct with Respect to Poisonous Substance
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 285: Negligent Conduct with Respect to Fire or Combustible Matter
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 286: Negligent Conduct with Respect to Explosive Substance
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 287: Negligent Conduct with Respect to Machinery
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 288: Negligent Conduct with Respect to Pulling Down or Repairing Buildings
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 289: Negligent Conduct with Respect to Animal
+Imprisonment up to 6 months or fine up to Rs. 1,000 or both.
+
+Section 290: Punishment for Public Nuisance
+Fine up to Rs. 200.
+
+Section 291: Continuance of Nuisance After Injunction to Discontinue
+Simple imprisonment up to 6 months or fine or both.
+
+Section 292: Sale, etc., of Obscene Books
+Imprisonment up to 2 years or fine up to Rs. 2,000 or both (first conviction); imprisonment up to 5 years and fine up to Rs. 5,000 (subsequent conviction).
+
+Section 293: Sale, etc., of Obscene Objects to Young Person
+Imprisonment up to 3 years or fine or both.
+
+Section 294: Obscene Acts and Songs
+Imprisonment up to 3 months or fine or both.
+
+Section 294A: Keeping Lottery Office
+Imprisonment up to 6 months or fine or both.
+
+Section 295: Injuring or Defiling Place of Worship with Intent to Insult Religion
+Imprisonment up to 2 years or fine or both.
+
+Section 295A: Deliberate and Malicious Acts Intended to Outrage Religious Feelings
+Imprisonment up to 3 years or fine or both.
+
+Section 296: Disturbing Religious Assembly
+Imprisonment up to 1 year or fine or both.
+
+Section 297: Trespassing on Burial Places
+Imprisonment up to 1 year or fine or both.
+
+Section 298: Uttering Words with Deliberate Intent to Wound Religious Feelings
+Imprisonment up to 1 year or fine or both.
+
+=== OFFENCES AGAINST HUMAN BODY (EXPANDED) ===
+
+Section 299: Culpable Homicide
+Causing death by doing act with intention or knowledge of likely causing death.
+
+Section 300: Murder
+Culpable homicide is murder if act done with specific intentions/knowledge (with exceptions for provocation, private defence, etc.).
+
+Section 301: Culpable Homicide by Causing Death of Person Other Than Person Whose Death Was Intended
+If person does act intending/knowing it likely to cause death of one person and death of another person is caused thereby, guilty of culpable homicide.
+
+Section 302: Punishment for Murder
+Death or imprisonment for life and fine.
+
+Section 303: Punishment for Murder by Life Convict
+Death penalty (now struck down by Supreme Court as unconstitutional).
+
+Section 304: Punishment for Culpable Homicide Not Amounting to Murder
+Part I: If act done with intention likely to cause death - imprisonment for life or up to 10 years and fine.
+Part II: If act done with knowledge likely to cause death - imprisonment up to 10 years or fine or both.
+
+Section 304A: Causing Death by Negligence
+Rash or negligent act causing death not amounting to culpable homicide: imprisonment up to 2 years or fine or both.
+
+Section 304B: Dowry Death
+If woman dies within 7 years of marriage due to burns/bodily injury/unnatural circumstances and harassment for dowry is shown: imprisonment minimum 7 years (may extend to life).
+
+Section 305: Abetment of Suicide of Child or Insane Person
+Death or imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 306: Abetment of Suicide
+Imprisonment up to 10 years and fine.
+
+Section 307: Attempt to Murder
+Imprisonment up to 10 years and fine; if hurt caused: imprisonment for life.
+
+Section 308: Attempt to Commit Culpable Homicide
+Imprisonment up to 3 years or fine or both; if hurt caused: imprisonment up to 7 years or fine or both.
+
+Section 309: Attempt to Commit Suicide
+Simple imprisonment up to 1 year or fine or both (rarely enforced; often treated as mental health issue).
+
+Section 310: Thug
+Whoever is one of a gang habitually committing murder for purpose of robbery.
+
+Section 311: Punishment for Thuggee
+Imprisonment for life and fine.
+
+Section 312: Causing Miscarriage
+Imprisonment up to 3 years or fine or both; if woman quick with child: imprisonment up to 7 years and fine.
+
+Section 313: Causing Miscarriage Without Woman's Consent
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 314: Death Caused by Act Done with Intent to Cause Miscarriage
+Imprisonment up to 10 years and fine; if woman quick with child: imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 315: Act Done with Intent to Prevent Child Being Born Alive
+Imprisonment up to 10 years or fine or both.
+
+Section 316: Causing Death of Quick Unborn Child by Act Amounting to Culpable Homicide
+Imprisonment up to 10 years and fine.
+
+Section 317: Exposure and Abandonment of Child Under Twelve by Parent or Person Having Care
+Imprisonment up to 7 years or fine or both.
+
+Section 318: Concealment of Birth by Secret Disposal of Dead Body
+Imprisonment up to 2 years or fine or both.
+
+Section 319: Hurt
+Causing bodily pain, disease, or infirmity.
+
+Section 320: Grievous Hurt
+Eight types: emasculation, permanent sight loss, permanent hearing loss, limb/joint destruction, head/face permanent disfigurement, bone fracture/dislocation, tooth dislocation, severe burns/corrosive damage.
+
+Section 321: Voluntarily Causing Hurt
+Imprisonment up to 1 year or fine up to Rs. 1,000 or both.
+
+Section 322: Voluntarily Causing Grievous Hurt
+Imprisonment up to 7 years and fine.
+
+Section 323: Punishment for Voluntarily Causing Hurt
+Imprisonment up to 1 year or fine up to Rs. 1,000 or both.
+
+Section 324: Voluntarily Causing Hurt by Dangerous Weapons or Means
+Imprisonment up to 3 years or fine or both.
+
+Section 325: Punishment for Voluntarily Causing Grievous Hurt
+Imprisonment up to 7 years and fine.
+
+Section 326: Voluntarily Causing Grievous Hurt by Dangerous Weapons or Means
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 326A: Voluntarily Causing Grievous Hurt by Use of Acid
+Imprisonment minimum 10 years (may extend to life) and fine.
+
+Section 326B: Voluntarily Throwing or Attempting to Throw Acid
+Imprisonment minimum 5 years (may extend to 7 years) and fine.
+
+Section 327: Voluntarily Causing Hurt to Extort Property or Constrain to Illegal Act
+Imprisonment up to 10 years and fine.
+
+Section 328: Causing Hurt by Means of Poison with Intent to Commit Offence
+Imprisonment up to 10 years and fine.
+
+Section 329: Voluntarily Causing Grievous Hurt to Extort Property or Constrain to Illegal Act
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 330: Voluntarily Causing Hurt to Extort Confession or Information
+Imprisonment up to 7 years and fine.
+
+Section 331: Voluntarily Causing Grievous Hurt to Extort Confession or Information
+Imprisonment up to 10 years and fine.
+
+Section 332: Voluntarily Causing Hurt to Deter Public Servant from Duty
+Imprisonment up to 3 years or fine or both.
+
+Section 333: Voluntarily Causing Grievous Hurt to Deter Public Servant from Duty
+Imprisonment up to 10 years and fine.
+
+Section 334: Voluntarily Causing Hurt on Provocation
+Imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 335: Voluntarily Causing Grievous Hurt on Provocation
+Imprisonment up to 4 years or fine up to Rs. 2,000 or both.
+
+Section 336: Act Endangering Life or Personal Safety
+Imprisonment up to 3 months or fine up to Rs. 250 or both.
+
+Section 337: Causing Hurt by Act Endangering Life or Personal Safety
+Imprisonment up to 6 months or fine up to Rs. 500 or both.
+
+Section 338: Causing Grievous Hurt by Act Endangering Life or Personal Safety
+Imprisonment up to 2 years or fine up to Rs. 1,000 or both.
+
+Section 339: Wrongful Restraint
+Obstructing person to prevent from proceeding in any direction.
+
+Section 340: Wrongful Confinement
+Wrongful restraint which prevents person from proceeding beyond certain circumscribing limits.
+
+Section 341: Punishment for Wrongful Restraint
+Simple imprisonment up to 1 month or fine up to Rs. 500 or both.
+
+Section 342: Punishment for Wrongful Confinement
+Imprisonment up to 1 year or fine up to Rs. 1,000 or both.
+
+Section 343: Wrongful Confinement for Three or More Days
+Imprisonment up to 2 years or fine or both.
+
+Section 344: Wrongful Confinement for Ten or More Days
+Imprisonment up to 3 years and fine.
+
+Section 345: Wrongful Confinement of Person for Whose Liberation Writ Has Been Issued
+Imprisonment up to 2 years in addition to any other punishment.
+
+Section 346: Wrongful Confinement in Secret
+Imprisonment up to 2 years in addition to any other punishment.
+
+Section 347: Wrongful Confinement to Extort Property or Constrain to Illegal Act
+Imprisonment up to 3 years and fine.
+
+Section 348: Wrongful Confinement to Extort Confession or Information
+Imprisonment up to 3 years and fine.
+
+Section 349: Force
+Causing motion, change of motion, or cessation of motion to any person.
+
+Section 350: Criminal Force
+Intentional use of force without consent with intent or knowledge to cause injury, fear, or annoyance.
+
+Section 351: Assault
+Gesture or preparation intending or knowing likely to cause apprehension that criminal force will be used.
+
+Section 352: Punishment for Assault or Criminal Force
+Imprisonment up to 3 months or fine up to Rs. 500 or both.
+
+Section 353: Assault or Criminal Force to Deter Public Servant from Discharge of Duty
+Imprisonment up to 2 years or fine or both.
+
+Section 354: Assault or Criminal Force to Woman with Intent to Outrage Her Modesty
+Imprisonment minimum 1 year (may extend to 5 years) and fine.
+
+Section 354A: Sexual Harassment and Punishment for Sexual Harassment
+Physical contact/unwelcome sexual advances/demand for sexual favours/showing pornography/making sexually coloured remarks: imprisonment up to 3 years or fine or both.
+
+Section 354B: Assault or Use of Criminal Force to Woman with Intent to Disrobe
+Imprisonment minimum 3 years (may extend to 7 years) and fine.
+
+Section 354C: Voyeurism
+Watching or capturing image of woman in private act: imprisonment minimum 1 year (may extend to 3 years) and fine.
+
+Section 354D: Stalking
+Following woman/monitoring use of internet/electronic communication: imprisonment up to 3 years and fine.
+
+Section 355: Assault or Criminal Force with Intent to Dishonour Person
+Imprisonment up to 2 years or fine or both.
+
+Section 356: Assault or Criminal Force in Attempt to Commit Theft
+Imprisonment up to 2 years or fine or both.
+
+Section 357: Assault or Criminal Force in Attempt Wrongfully to Confine
+Imprisonment up to 1 year or fine up to Rs. 1,000 or both.
+
+Section 358: Assault or Criminal Force on Grave Provocation
+Simple imprisonment up to 1 month or fine up to Rs. 200 or both.
+
+Section 359: Kidnapping
+Kidnapping from India or from lawful guardianship.
+
+Section 360: Kidnapping from India
+Taking or enticing person beyond limits of India without consent.
+
+Section 361: Kidnapping from Lawful Guardianship
+Taking or enticing minor (under 16 if male, under 18 if female) or person of unsound mind from keeping of lawful guardian.
+
+Section 362: Abduction
+Compelling person by force or deceitful means to go from any place.
+
+Section 363: Punishment for Kidnapping
+Imprisonment up to 7 years and fine.
+
+Section 363A: Kidnapping or Maiming Minor for Purposes of Begging
+Imprisonment up to 10 years and fine.
+
+Section 364: Kidnapping or Abducting in Order to Murder
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 364A: Kidnapping for Ransom
+Death or imprisonment for life and fine.
+
+Section 365: Kidnapping or Abducting with Intent to Secretly and Wrongfully Confine
+Imprisonment up to 7 years and fine.
+
+Section 366: Kidnapping, Abducting or Inducing Woman to Compel Her Marriage
+Imprisonment up to 10 years and fine.
+
+Section 366A: Procuration of Minor Girl
+Imprisonment up to 10 years and fine.
+
+Section 366B: Importation of Girl from Foreign Country
+Imprisonment up to 10 years and fine.
+
+Section 367: Kidnapping or Abducting to Subject Person to Grievous Hurt, Slavery
+Imprisonment up to 10 years and fine.
+
+Section 368: Wrongfully Concealing or Keeping in Confinement Kidnapped Person
+Punished same as kidnapping or abduction.
+
+Section 369: Kidnapping or Abducting Child Under Ten with Intent to Steal
+Imprisonment up to 7 years and fine.
+
+Section 370: Trafficking of Persons
+Imprisonment minimum 7 years (may extend to 10 years) and fine; if involves minor: minimum 10 years (may extend to life) and fine.
+
+Section 370A: Exploitation of Trafficked Person
+Rigorous imprisonment minimum 5 years (may extend to 7 years) and fine.
+
+Section 371: Habitual Dealing in Slaves
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 372: Selling Minor for Purposes of Prostitution
+Imprisonment up to 10 years and fine.
+
+Section 373: Buying Minor for Purposes of Prostitution
+Imprisonment up to 10 years and fine.
+
+Section 374: Unlawful Compulsory Labour
+Imprisonment up to 1 year or fine or both.
+
+Section 375: Rape
+Sexual intercourse under circumstances of lack of consent (seven circumstances defined).
+
+Section 376: Punishment for Rape
+Rigorous imprisonment minimum 7 years (may extend to life or 10 years) and fine; if woman under 16: minimum 10 years (may extend to life).
+
+Section 376A: Punishment for Causing Death or Resulting in Persistent Vegetative State of Victim
+Rigorous imprisonment minimum 20 years (may extend to life or death).
+
+Section 376B: Sexual Intercourse by Husband Upon His Wife During Separation
+Imprisonment up to 2 years and fine.
+
+Section 376C: Sexual Intercourse by Person in Authority
+Rigorous imprisonment minimum 5 years (may extend to 10 years) and fine.
+
+Section 376D: Gang Rape
+Rigorous imprisonment minimum 20 years (may extend to life) and fine.
+
+Section 376E: Punishment for Repeat Offenders
+Imprisonment for life (which shall mean rest of natural life) or death.
+
+Section 377: Unnatural Offences
+Voluntarily having carnal intercourse against order of nature: imprisonment up to 10 years and fine.
+(Note: Section 377 partially struck down by Supreme Court in 2018 decriminalizing consensual same-sex relations between adults).
+
+=== CHAPTER XVII: OFFENCES AGAINST PROPERTY ===
+
+Section 378: Theft
+Dishonestly taking movable property out of possession without consent.
+
+Section 379: Punishment for Theft
+Imprisonment up to 3 years or fine or both.
+
+Section 380: Theft in Dwelling House
+Imprisonment up to 7 years and fine.
+
+Section 381: Theft by Clerk or Servant
+Imprisonment up to 7 years and fine.
+
+Section 382: Theft After Preparation Made for Causing Death or Hurt
+Rigorous imprisonment up to 10 years and fine.
+
+Section 383: Extortion
+Intentionally putting person in fear of injury to induce delivery of property.
+
+Section 384: Punishment for Extortion
+Imprisonment up to 3 years or fine or both.
+
+Section 385: Putting Person in Fear of Injury to Commit Extortion
+Imprisonment up to 2 years or fine or both.
+
+Section 386: Extortion by Putting Person in Fear of Death or Grievous Hurt
+Imprisonment up to 10 years and fine.
+
+Section 387: Putting Person in Fear of Death or Grievous Hurt to Commit Extortion
+Imprisonment up to 7 years and fine.
+
+Section 388: Extortion by Threat of Accusation of Offence Punishable with Death or Imprisonment for Life
+Imprisonment up to 10 years and fine.
+
+Section 389: Putting Person in Fear of Accusation of Offence to Commit Extortion
+Imprisonment up to 10 years and fine.
+
+Section 390: Robbery
+Theft with assault/wrongful restraint or putting in fear of death/hurt.
+
+Section 391: Dacoity
+Robbery by five or more persons conjointly.
+
+Section 392: Punishment for Robbery
+Rigorous imprisonment up to 10 years and fine.
+
+Section 393: Attempt to Commit Robbery
+Rigorous imprisonment up to 7 years and fine.
+
+Section 394: Voluntarily Causing Hurt in Committing Robbery
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 395: Punishment for Dacoity
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 396: Dacoity with Murder
+Death or imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 397: Robbery or Dacoity with Attempt to Cause Death or Grievous Hurt
+Rigorous imprisonment minimum 7 years (may extend to life).
+
+Section 398: Attempt to Commit Robbery or Dacoity When Armed with Deadly Weapon
+Rigorous imprisonment minimum 7 years (may extend to life).
+
+Section 399: Making Preparation to Commit Dacoity
+Rigorous imprisonment up to 10 years and fine.
+
+Section 400: Punishment for Belonging to Gang of Dacoits
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 401: Punishment for Belonging to Gang of Thieves
+Rigorous imprisonment up to 7 years and fine.
+
+Section 402: Assembling for Purpose of Committing Dacoity
+Rigorous imprisonment up to 7 years and fine.
+
+Section 403: Dishonest Misappropriation of Property
+Imprisonment up to 2 years or fine or both.
+
+Section 404: Dishonest Misappropriation of Property Possessed by Deceased Person
+Imprisonment up to 3 years and fine.
+
+Section 405: Criminal Breach of Trust
+Dishonest misappropriation or use or disposal of property entrusted.
+
+Section 406: Punishment for Criminal Breach of Trust
+Imprisonment up to 3 years or fine or both.
+
+Section 407: Criminal Breach of Trust by Carrier
+Imprisonment up to 7 years and fine.
+
+Section 408: Criminal Breach of Trust by Clerk or Servant
+Imprisonment up to 7 years and fine.
+
+Section 409: Criminal Breach of Trust by Public Servant, Banker, Merchant, or Agent
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 410: Stolen Property
+Property obtained through theft, extortion, robbery, breach of trust, or receiving knowing it to be stolen.
+
+Section 411: Dishonestly Receiving Stolen Property
+Imprisonment up to 3 years or fine or both.
+
+Section 412: Dishonestly Receiving Property Stolen in Commission of Dacoity
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 413: Habitually Dealing in Stolen Property
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 414: Assisting in Concealment of Stolen Property
+Imprisonment up to 3 years or fine or both.
+
+Section 415: Cheating
+Deceiving person fraudulently or dishonestly inducing delivery of property.
+
+Section 416: Cheating by Personation
+Imprisonment up to 3 years or fine or both.
+
+Section 417: Punishment for Cheating
+Imprisonment up to 1 year or fine or both.
+
+Section 418: Cheating with Knowledge that Wrongful Loss May Ensue to Person Whose Interest Offender is Bound to Protect
+Imprisonment up to 3 years or fine or both.
+
+Section 419: Punishment for Cheating by Personation
+Imprisonment up to 3 years or fine or both.
+
+Section 420: Cheating and Dishonestly Inducing Delivery of Property
+Imprisonment up to 7 years and fine.
+
+Section 421: Dishonest or Fraudulent Removal or Concealment of Property to Prevent Distribution Among Creditors
+Imprisonment up to 2 years or fine or both.
+
+Section 422: Dishonestly or Fraudulently Preventing Debt Being Available for Creditors
+Imprisonment up to 1 year or fine or both.
+
+Section 423: Dishonest or Fraudulent Execution of Deed of Transfer
+Imprisonment up to 2 years or fine or both.
+
+Section 424: Dishonest or Fraudulent Removal or Concealment of Property
+Imprisonment up to 2 years or fine or both.
+
+Section 425: Mischief
+Causing wrongful loss or damage to property.
+
+Section 426: Punishment for Mischief
+Imprisonment up to 3 months or fine or both.
+
+Section 427: Mischief Causing Damage to Amount of Fifty Rupees
+Imprisonment up to 2 years or fine or both.
+
+Section 428: Mischief by Killing or Maiming Animal
+Imprisonment up to 2 years or fine or both (if value Rs. 10 or more).
+
+Section 429: Mischief by Killing or Maiming Cattle
+Imprisonment up to 5 years or fine or both.
+
+Section 430: Mischief by Injury to Works of Irrigation or Wrongful Diversion of Water
+Imprisonment up to 5 years or fine or both.
+
+Section 431: Mischief by Injury to Public Road, Bridge, River, or Channel
+Imprisonment up to 5 years or fine or both.
+
+Section 432: Mischief by Causing Inundation or Obstruction to Public Drainage
+Imprisonment up to 5 years or fine or both.
+
+Section 433: Mischief by Destroying, Moving, or Rendering Less Useful a Lighthouse or Sea-Mark
+Imprisonment up to 7 years or fine or both.
+
+Section 434: Mischief by Destroying or Moving Landmark Fixed by Public Authority
+Imprisonment up to 1 year or fine or both.
+
+Section 435: Mischief by Fire or Explosive Substance with Intent to Cause Damage
+Imprisonment up to 7 years and fine.
+
+Section 436: Mischief by Fire or Explosive Substance with Intent to Destroy House
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 437: Mischief with Intent to Destroy or Make Unsafe a Decked Vessel or Vessel of Twenty Tons Burden
+Imprisonment up to 10 years and fine.
+
+Section 438: Punishment for Mischief Described in Section 437 Committed by Fire or Explosive Substance
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 439: Punishment for Intentionally Running Vessel Aground with Intent to Commit Theft
+Imprisonment up to 10 years and fine.
+
+Section 440: Mischief Committed After Preparation Made for Causing Death or Hurt
+Imprisonment up to 5 years and fine.
+
+Section 441: Criminal Trespass
+Entering into or remaining in property in possession of another with intent to commit offence, intimidate, insult, or annoy.
+
+Section 442: House-Trespass
+Criminal trespass into building, tent, or vessel used as human dwelling or place for worship, or for custody of property.
+
+Section 443: Lurking House-Trespass
+House-trespass having taken precautions to conceal trespass.
+
+Section 444: Lurking House-Trespass by Night
+Lurking house-trespass after sunset and before sunrise.
+
+Section 445: House-Breaking
+House-trespass through entrance made by offender or accomplice.
+
+Section 446: House-Breaking by Night
+House-breaking after sunset and before sunrise.
+
+Section 447: Punishment for Criminal Trespass
+Imprisonment up to 3 months or fine up to Rs. 500 or both.
+
+Section 448: Punishment for House-Trespass
+Imprisonment up to 1 year or fine up to Rs. 1,000 or both.
+
+Section 449: House-Trespass to Commit Offence Punishable with Death
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 450: House-Trespass to Commit Offence Punishable with Imprisonment for Life
+Imprisonment up to 10 years and fine.
+
+Section 451: House-Trespass to Commit Offence Punishable with Imprisonment
+Imprisonment up to 2 years and fine.
+
+Section 452: House-Trespass After Preparation for Hurt, Assault, or Wrongful Restraint
+Imprisonment up to 7 years and fine.
+
+Section 453: Punishment for Lurking House-Trespass or House-Breaking
+Imprisonment up to 2 years and fine.
+
+Section 454: Lurking House-Trespass or House-Breaking to Commit Offence Punishable with Imprisonment
+Imprisonment up to 3 years and fine.
+
+Section 455: Lurking House-Trespass or House-Breaking After Preparation for Hurt, Assault, or Wrongful Restraint
+Imprisonment up to 10 years and fine.
+
+Section 456: Punishment for Lurking House-Trespass or House-Breaking by Night
+Imprisonment up to 3 years and fine.
+
+Section 457: Lurking House-Trespass or House-Breaking by Night to Commit Offence Punishable with Imprisonment
+Imprisonment up to 5 years and fine.
+
+Section 458: Lurking House-Trespass or House-Breaking by Night After Preparation for Hurt, Assault, or Wrongful Restraint
+Imprisonment up to 14 years and fine.
+
+Section 459: Grievous Hurt Caused Whilst Committing Lurking House-Trespass or House-Breaking
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 460: All Persons Jointly Concerned in Lurking House-Trespass or House-Breaking by Night Punishable Where Death or Grievous Hurt Caused
+Imprisonment for life or rigorous imprisonment up to 10 years and fine.
+
+Section 461: Dishonestly Breaking Open Receptacle Containing Property
+Imprisonment up to 2 years or fine or both.
+
+Section 462: Punishment for Same Offence When Committed by Person Entrusted with Custody
+Imprisonment up to 3 years or fine or both.
+
+=== CHAPTER XVIII: OFFENCES RELATING TO DOCUMENTS AND PROPERTY MARKS ===
+
+Section 463: Forgery
+Making false document or electronic record with intent to cause damage or injury, support claim, cause person to part with property, or enter into contract.
+
+Section 464: Making a False Document
+Making document purporting to be what it is not or by person not authorized.
+
+Section 465: Punishment for Forgery
+Imprisonment up to 2 years or fine or both.
+
+Section 466: Forgery of Record of Court or Public Register
+Imprisonment up to 7 years and fine.
+
+Section 467: Forgery of Valuable Security, Will
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 468: Forgery for Purpose of Cheating
+Imprisonment up to 7 years and fine.
+
+Section 469: Forgery for Purpose of Harming Reputation
+Imprisonment up to 3 years and fine.
+
+Section 470: Forged Document or Electronic Record
+Document or record knowing or having reason to believe same to be forged document.
+
+Section 471: Using as Genuine a Forged Document or Electronic Record
+Punished as if guilty of forgery.
+
+Section 472: Making or Possessing Counterfeit Seal with Intent to Commit Forgery
+Imprisonment for life or imprisonment up to 7 years and fine.
+
+Section 473: Making or Possessing Counterfeit Seal with Intent to Commit Forgery of Valuable Security
+Imprisonment for life or imprisonment up to 7 years and fine.
+
+Section 474: Having Possession of Document Described in Section 466 or 467, Knowing it to be Forged
+Imprisonment up to 7 years and fine.
+
+Section 475: Counterfeiting Device or Mark Used for Authenticating Documents
+Imprisonment for life or imprisonment up to 7 years and fine.
+
+Section 476: Counterfeiting Device or Mark Used for Authenticating Documents Other Than Those Described in Section 467
+Imprisonment up to 7 years and fine.
+
+Section 477: Fraudulent Cancellation, Destruction of Will, Authority to Adopt, or Valuable Security
+Imprisonment for life or imprisonment up to 7 years and fine.
+
+Section 477A: Falsification of Accounts
+Imprisonment up to 7 years or fine or both.
+
+Section 478: Trade Mark
+Mark used for denoting that goods are manufacture or merchandise of particular person.
+
+Section 479: Property Mark
+Mark used for denoting that movable property belongs to particular person.
+
+Section 480: Using a False Trade Mark
+Imprisonment up to 1 year or fine or both.
+
+Section 481: Using a False Property Mark
+Imprisonment up to 1 year or fine or both.
+
+Section 482: Punishment for Using a False Property Mark
+Imprisonment up to 2 years or fine or both.
+
+Section 483: Counterfeiting a Property Mark Used by Public Servant
+Imprisonment up to 3 years and fine.
+
+Section 484: Counterfeiting a Mark Used by Public Servant
+Imprisonment up to 2 years or fine or both.
+
+Section 485: Making or Possession of Any Instrument for Counterfeiting Trade Mark or Property Mark
+Imprisonment up to 3 years or fine or both.
+
+Section 486: Selling Goods Marked with Counterfeit Property Mark
+Imprisonment up to 1 year or fine or both.
+
+Section 487: Making a False Mark Upon Any Receptacle Containing Goods
+Imprisonment up to 3 years or fine or both.
+
+Section 488: Punishment for Making Use of Any Such False Mark
+Imprisonment up to 3 years or fine or both.
+
+Section 489: Tampering with Property Mark with Intent to Cause Injury
+Imprisonment up to 1 year or fine or both.
+
+=== CHAPTER XIX: CURRENCY AND BANK NOTES ===
+
+Section 489A: Counterfeiting Currency Notes or Bank Notes
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 489B: Using as Genuine Forged or Counterfeit Currency Notes or Bank Notes
+Imprisonment for life or imprisonment up to 10 years and fine.
+
+Section 489C: Possession of Forged or Counterfeit Currency Notes or Bank Notes
+Imprisonment up to 7 years or fine or both.
+
+Section 489D: Making or Possessing Instruments or Materials for Forging or Counterfeiting Currency Notes or Bank Notes
+Imprisonment up to 7 years and fine.
+
+Section 489E: Making or Using Documents Resembling Currency Notes or Bank Notes
+Fine up to Rs. 100.
+
+=== CHAPTER XX: CRIMINAL INTIMIDATION, INSULT, AND ANNOYANCE ===
+
+Section 503: Criminal Intimidation
+Threatening with injury to person, reputation, or property to cause alarm.
+
+Section 504: Intentional Insult with Intent to Provoke Breach of Peace
+Imprisonment up to 2 years or fine or both.
+
+Section 505: Statements Conducting to Public Mischief
+Imprisonment up to 3 years or fine or both.
+
+Section 506: Punishment for Criminal Intimidation
+Imprisonment up to 2 years or fine or both; if threat to cause death/grievous hurt: imprisonment up to 7 years or fine or both.
+
+Section 507: Criminal Intimidation by Anonymous Communication
+Imprisonment up to 2 years in addition to punishment under Section 506.
+
+Section 508: Act Caused by Inducing Person to Believe He Will be Rendered Object of Divine Displeasure
+Imprisonment up to 1 year or fine or both.
+
+Section 509: Word, Gesture or Act Intended to Insult Modesty of Woman
+Simple imprisonment up to 3 years and fine.
+
+Section 510: Misconduct in Public by Drunken Person
+Simple imprisonment up to 24 hours or fine up to Rs. 10 or both.
+
+=== ADDITIONAL IMPORTANT PROVISIONS ===
+
+Section 511: Punishment for Attempting to Commit Offences Punishable with Imprisonment for Life or Other Imprisonment
+Imprisonment up to half of longest term for offence or fine or both.
+
+END OF DATABASE
+====================================================================
+Total Sections Documented: 250+
+Last Updated: February 2026
+Source: Indian Penal Code, 1860 (as amended)
+====================================================================
